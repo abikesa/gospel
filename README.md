@@ -14,4 +14,4 @@
 
 # Fab
 5. Temperament: sets you up for challenges/`affronter`
-6. Expression: then you can match anything/`s'adapter à tout`
+6. Expression: then you can match anything/`improviser`
