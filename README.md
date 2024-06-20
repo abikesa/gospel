@@ -1,17 +1,9 @@
-                 1. Root
+                 1. Hymn
                         \
-        2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
+             2. Soul -> 4. RnB -> 5. Jazz -> 6. Fusion
                         /
-                        3. Diatonic 
+                        3. Blues 
 
-# White
-1. Root: affects how you hear/`voir`  
-2. Pentatonic: how you think/`savoir`  
-
-# Black
-3. Diatonic: improves how you play/`pouvoir`  
-4. Chromatic: develops your skill/`maîtriser`
-
-# Fab
-5. Temperament: sets you up for challenges/`affronter`
-6. Expression: then you can match anything/`improviser`
+### Dionysus 1, 2, 3
+### Sing O Muse 4
+### Apollo [5](https://brucebarone.com/wp-content/uploads/2021/02/48718-teacup190803.jpg), 6
