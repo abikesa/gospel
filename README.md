@@ -6,7 +6,7 @@
                         /
                         3. Blues 
 
-### Dionysus 1, 2, 3
+### Dionysus 1, 2, [3](https://www.youtube.com/watch?v=zUT0vZmbH88)
 ### Sing O Muse 4
 ### Apollo [5](https://brucebarone.com/wp-content/uploads/2021/02/48718-teacup190803.jpg), 6
 
