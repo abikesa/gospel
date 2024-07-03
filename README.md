@@ -1,4 +1,9 @@
-<iframe src="https://abikesa.github.io/dionysus/intro.html" width="100%" height="600px" style="border:none"></iframe>
+> - Ear: Very Good (Passion)
+> - Mind: Excellent (Intellect)
+> - Fingers: `Poor` (Discipline)
+
+
+<iframe src="https://abikesa.github.io/dionysus/" width="100%" height="600px" style="border:none"></iframe>
                  
                  1. Hymn
                         \
