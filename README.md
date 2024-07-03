@@ -1,7 +1,4 @@
-> - Ear: Very Good (Passion)
-> - Mind: Excellent (Intellect)
-> - Fingers: `Poor` (Discipline)
->
+
 ```sh
      1. Ear
            \
