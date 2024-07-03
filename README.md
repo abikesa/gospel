@@ -1,6 +1,26 @@
 > - Ear: Very Good (Passion)
 > - Mind: Excellent (Intellect)
 > - Fingers: `Poor` (Discipline)
+>
+```sh
+     1. Ear
+           \
+2. Mind -> 4. Posting -> 5. Medium 6. Sales
+           /
+           3. Fingers
+```
+
+###### Dionysus 1, 2, 3
+- Ear: `Passion`
+- Mind: `Intellect`
+- Fingers: `Discipline`
+  
+###### Sing O Muse 4
+- Posting: `Communication`
+  
+###### Apollo 5, 6
+- Medium: `Technology`
+- Sales: `Feedback`
 
 
 <iframe src="https://abikesa.github.io/dionysus/" width="100%" height="600px" style="border:none"></iframe>
