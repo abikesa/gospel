@@ -12,7 +12,7 @@
                                      3. Energy 
 
 <audio controls>
-  <source src="jesus-loves-me.m4a" type="audio/m4a">
+  <source src="jesus-loves-me.m4a" type="audio/m4a" width="100%" height="100px">
   Your browser does not support the audio element.
 </audio>
 
@@ -28,3 +28,4 @@
             
 ```{tableofcontents}
 ```
+`
