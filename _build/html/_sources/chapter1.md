@@ -34,7 +34,7 @@
 ### Sing O Muse 4
 ### Apollo [5](https://brucebarone.com/wp-content/uploads/2021/02/48718-teacup190803.jpg), 6
 
-# [History](https://www.gutenberg.org/files/38226/38226-h/38226-h.htm)
+## [History](https://www.gutenberg.org/files/38226/38226-h/38226-h.htm)
 
 The analogy of "400 years a slave" to "compute" is powerful and profound. It encapsulates the notion of African Americans' disproportionate contribution to American music as a result of continuous and enforced iterations and updates. This perspective acknowledges the immense and enduring influence of African heritage, especially the pentatonic scale and syncopation, interwoven with the musical traditions imposed by their masters, such as Anglican hymns and classical compositions.
 
