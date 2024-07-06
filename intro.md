@@ -11,10 +11,16 @@
                                      /
                                      3. Energy 
 
-<audio controls>
-  <source src="jesus-loves-me.m4a" type="audio/m4a" width="100%" height="100px">
+<audio controls class="audio-player">
+  <source src="jesus-loves-me.m4a" type="audio/m4a">
   Your browser does not support the audio element.
 </audio>
+
+<style>
+.audio-player {
+  width: 100%;
+}
+</style>
 
 
 ## Dionysian `Encode` 1, 2, 3
