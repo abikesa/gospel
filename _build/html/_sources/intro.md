@@ -1,4 +1,4 @@
-# 1st Anniversary
+# 1 Anniversary
 
 _Sat July 6, 2024_
 
