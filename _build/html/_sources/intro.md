@@ -35,11 +35,11 @@ _Sat July 6, 2024_
 ### Apollonian (**Soul**, _Nutrition_) `Decode` 5, 6
 - The nutritional experience of these 12 months has been unbelievable. I "hear" music from my memory better and can rush to the piano to decode it instantly, usually in the key of Gb Major or Eb minor. This new key has revealed to me that the sweetest melodies and motifs are essentially pentatonic. In brief, I'm now able to encode all the music I've listened to, not only Gospel but even Bach! I'm finally finding a kindred spirit in Bach. Vaughn Braithwaithe will appraise my year at his university today.
 
-                   1. Millenia
-                              \
-            2. Our-Heritage -> 4. Collective-Unconscious -> 5. Decode-Priests -> 6. Apply-Thrive
-                               /
-                               3. Artifacts-Rituals 
+       1. Millenia-of-Experiences
+                                 \
+              2. Our-Heritage -> 4. Collective-Unconscious -> 5. Decode-Priests -> 6. Apply-Thrive
+                                 /
+                                 3. Artifacts-Rituals 
 `
 ## Table of Contents
             
