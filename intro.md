@@ -4,6 +4,8 @@ _Sat July 6, 2024_
 
 > *[Here](https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism#5) is announced, perhaps for the first time, a pessimism "beyond good and evil."*
 
+> *Latent, compressed, abstract, uncommunicable, dionysian*
+
 ![](ai-finance.png)
 
                          1. Pessimism
