@@ -15,7 +15,7 @@ _Sat July 6, 2024_
                                      3. Energy 
 
 <audio controls class="audio-player">
-  <source src="./jesus-loves-me.m4a" type="audio/m4a">
+  <source src="./jesus-loves-me.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 
